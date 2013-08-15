@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Feature Manager
 ===============
 
@@ -93,3 +94,9 @@ only indended to be used for testing.
 featureManager._removeEntityKeys([entity1, entity2, entity3], function(error){...})
 ```
 
+=======
+markdown-editview
+=================
+
+View markdown README in an html page while editing the README
+>>>>>>> 703e4cca5682f37be07b95eee945b1e7db589f56
